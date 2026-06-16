@@ -1,2 +1,25 @@
-# Content-Creator-Tools-Spreadsheet-Calculator-Bundle
-10 pre-built calculators, trackers, and dashboards for common Content Creator Tools calculations. Instant spreadsheet tools without building from scratch.
+# Content Creator Tools Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMaEX6mX9Mw9JK5bud0n3Q)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMaEX6mX9Mw9JK5bud0n3Q)
+
